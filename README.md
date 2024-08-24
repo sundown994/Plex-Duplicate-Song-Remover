@@ -30,7 +30,7 @@ This Python script automatically identifies and removes duplicate tracks in your
      ```
    - For example:
      ```
-     /Volumes/Movies/Music/Alabama/Greatest Hits/01 - Mountain Music.flac
+     /Volumes/Music/Alabama/Greatest Hits/01 - Mountain Music.flac
      ```
 
    - If the script can't retrieve artist and album information from Plex metadata, it will extract this information from the file path. Ensure the directory structure is consistent to avoid misidentification.
